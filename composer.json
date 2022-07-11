@@ -1,0 +1,12 @@
+{
+    "name": "peket/hastephp",
+    "authors": [
+        {
+            "name": "Juan F.",
+            "email": "peketoide@hotmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6"
+    }
+}
